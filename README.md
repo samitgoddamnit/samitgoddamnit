@@ -1,4 +1,4 @@
-### Hi there 👋
+### I love computers I used to eat keyboards when I was younger
 
 <!--
 **samitgoddamnit/samitgoddamnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
