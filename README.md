@@ -1,4 +1,4 @@
-### 3rd Year at the University of Warwick
+### University of Warwick Computer Science with Intercalated Year (Nagoya University) Graduate
 
 <!--
 **samitgoddamnit/samitgoddamnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
